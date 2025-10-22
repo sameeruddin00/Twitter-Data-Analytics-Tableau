@@ -18,8 +18,3 @@ This project demonstrates the use of **Tableau Public** for visualizing and anal
    - **Dashboard Creation**: Combined multiple visualizations into an interactive **Tableau Dashboard** for easy insights.  
 
 ---
-
-### **Technologies Used**  
-- **Tableau Public** – For data visualization.  
-- **Data Cleaning** – Handled in Tableau using calculated fields.  
-- **Dataset** – Twitter customer support data (CSV format). 
