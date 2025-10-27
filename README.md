@@ -11,3 +11,15 @@ This project demonstrates the use of **Tableau Public** for visualizing and anal
    - Converted and formatted timestamp data for analysis.  
    - Filtered and categorized tweets based on company interactions.  
 
+2. **Visualization & Analysis in Tableau**  
+   - **Tweet Count Analysis**: Created **horizontal bar charts** to analyze tweet distribution across companies.  
+   - **Top & Bottom 10 Companies**: Filtered and ranked companies by tweet count.  
+   - **Time-Based Analysis**: Visualized inbound tweet patterns by **weekday and hour** to understand customer engagement trends.  
+   - **Dashboard Creation**: Combined multiple visualizations into an interactive **Tableau Dashboard** for easy insights.  
+
+---
+
+### **Technologies Used**  
+- **Tableau Public** – For data visualization.  
+- **Data Cleaning** – Handled in Tableau using calculated fields.  
+- **Dataset** – Twitter customer support data (CSV format). 
